@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 22 16:14:18 2023
-
-@author: a
-"""
-
 import numpy as np
 from jax_md import space
 from jax import vmap, jit
